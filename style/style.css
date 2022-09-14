@@ -342,6 +342,7 @@ svg.this {
 
 .thoughts {
   direction: rtl;
+  background-color: var(--section-color);
 }
 
 
